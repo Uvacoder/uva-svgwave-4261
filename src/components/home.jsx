@@ -206,7 +206,7 @@ function Home({ isDark, toggleDarkMode }) {
           />
         </div>
         <div className="z-20 flex h-12 text-lg font-bold text-black footer dark:text-white">
-          Made with ❤ in India
+          Made with ❤ by uvacoder
         </div>
       </div>
     </div>
