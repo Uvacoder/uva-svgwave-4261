@@ -14,8 +14,8 @@ function Navbar({ isDark, toggleDarkMode, color }) {
       <div className="flex items-center px-3 mx-3 font-sans text-lg font-bold nav-item max-h-16">
         <img src={isDark ? dark : light} alt="" width="80"/>
         <div className="relative logo-name">
-        <span className="text-black nav-logo dark:text-white"> Svg </span>
-        <span className="text-black nav-logo dark:text-white"> Wave </span>
+        <span className="text-black nav-logo dark:text-white"> Waves </span>
+        <span className="text-black nav-logo dark:text-white"> 4 svg </span>
       
         </div>
       </div>
