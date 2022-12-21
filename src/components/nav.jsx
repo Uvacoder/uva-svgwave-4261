@@ -20,7 +20,7 @@ function Navbar({ isDark, toggleDarkMode, color }) {
         </div>
       </div>
       <div className="flex items-center nav-item ">
-        <a href="https://github.com/uvacoder/svgwave">
+        <a href="https://github.com/uvacoder/uva-svgwave">
         <img
           src={Github}
           alt="Github logo"
